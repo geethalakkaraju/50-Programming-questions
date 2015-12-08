@@ -1,5 +1,7 @@
 package abstractclassexample;
 
+// This is the implementation of the shape subclass circle
+
 public class Circle extends Shape implements ShapeConstants {
 	
 	private final double radius;

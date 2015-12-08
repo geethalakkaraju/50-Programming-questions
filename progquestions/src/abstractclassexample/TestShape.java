@@ -11,6 +11,7 @@ public class TestShape {
 		double perimeter = circle.perimeter();
 		System.out.println("area: " + area);
 		System.out.println("perimeter: " + perimeter);
+		System.out.println("test to see if commit worked in github");
 	}
 
 }
